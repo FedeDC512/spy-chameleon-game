@@ -1,0 +1,5 @@
+# dependencies
+node_modules/
+
+# TOKEN and APINinjaKey
+.env
